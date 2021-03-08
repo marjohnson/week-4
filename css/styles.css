@@ -48,6 +48,16 @@ h3 {
   margin-top: 2em;
   text-align: center;
 }
+form {
+  display: flex;
+  justify-content: center;
+  padding: 3em;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+}
 img {
   max-width: 300px;
 }
